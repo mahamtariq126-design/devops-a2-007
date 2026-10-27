@@ -211,6 +211,16 @@ blockquote {
     text-decoration: underline;
 }
 
+.roll-number {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 5px 14px;
+    border-radius: 20px;
+    background-color: #eee3ff;
+    color: #6248ae;
+    font-weight: bold;
+}
+
 footer {
     padding: 20px;
     background: #202f52;
